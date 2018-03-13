@@ -1,0 +1,12 @@
+wix.com
+de.wix.com
+api.mixpanel.com
+spade.twitch.tv
+pubads.g.doubleclick.net
+sb.scorecardresearch.com
+ghostery-collector.ghostery.com
+config.edge.skype.com
+abroad.apilocate.amap.com
+assets.purch.com
+cdn.perfdrive.com
+g00.livescience.com
