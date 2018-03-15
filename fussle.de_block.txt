@@ -3896,7 +3896,6 @@ a-ring.msedge.net
 a-search.biz
 a-ssl.ligatus.com
 a-to-z-of-manners-and-etiquette.com
-a-v2.sndcdn.com
 a.0day.kiev.ua
 a.17maigou.com
 a.198banjia.com
@@ -73095,7 +73094,6 @@ img2.sankakustatic.com
 img2.titan007.com
 img2.trxxn.com
 img2.tzxrs.com
-img2.wikia.nocookie.net
 img2.xztkc.com
 img2.yyape.com
 img2.zergnet.com
@@ -93496,7 +93494,6 @@ mobile-lfree.fr-molass.com
 mobile-mining.com
 mobile-pricebd.com
 mobile-rate.com
-mobile-wiki.nocookie.net
 mobile.activeshopper.com
 mobile.ad-tracker.ch
 mobile.adfarm1.adition.com
@@ -97183,7 +97180,6 @@ noc.hitbox.com
 noc.luckyorange.com
 nocheckedbags.com
 nochi.com
-nocookie.net
 nocostpayouts.com
 nocreditcard.com
 nod.ricardoforhomes.com
@@ -114272,7 +114268,6 @@ slorent.com
 slot-games2.com
 slot.sub-zero.it
 slot.union.ucweb.com
-slot1-images.wikia.nocookie.net
 slotch.com
 slotchbar.com
 slothygeek.com
@@ -116928,7 +116923,6 @@ static.whappodo.com
 static.whatshelp.io
 static.whisbi.com
 static.whoopalook.com
-static.wikia.nocookie.net
 static.williamhill.com
 static.wired.com
 static.wkanx.com
@@ -131577,11 +131571,6 @@ viglink.com
 viglink.com.fritz.box
 vign_foxnews-news.baynote.net
 vignette.com
-vignette.wikia.nocookie.net
-vignette1.wikia.nocookie.net
-vignette2.wikia.nocookie.net
-vignette3.wikia.nocookie.net
-vignette4.wikia.nocookie.net
 vikalinka.com
 vikingtrck.com
 viktoria-center.ru
@@ -144832,7 +144821,6 @@ www.noahpass.jp
 www.noarchsupport.com
 www.nobleppc.com
 www.nochi.com
-www.nocookie.net
 www.nocostpayouts.com
 www.noelle-traxler.us
 www.noelle-trotter.us
