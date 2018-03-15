@@ -71452,7 +71452,6 @@ i1.likes-media.com
 i1.putags.com
 i1.services.social.microsoft.com
 i1.services.social.microsoft.com.nsatc.net
-i1.sndcdn.com
 i1.teaser-goods.ru
 i1.ytimg.com
 i1.ztat.net
@@ -118033,7 +118032,6 @@ stx8.sextracker.com
 stx9.sextracker.com
 stxbans.sextracker.com
 styl.pl
-style.sndcdn.com
 style2.ad6.fr
 styleblazer.us.intellitxt.com
 stylefashionista.com
@@ -127247,7 +127245,6 @@ va.akamai.startappservice.com
 va.gxpan.cn
 va.marketer.lpsnmedia.net
 va.origin.startappservice.com
-va.sndcdn.com
 va.tawk.to
 va3nek.webqth.com
 vaarthavisheshalu.com
@@ -134275,7 +134272,6 @@ wirespring.com
 wirtschaft.ch
 wirtschaftleichtverstehen.de
 wirtwoch.ivwbox.de
-wis.sndcdn.com
 wisc.edu
 wisdome.commercial-rainwater-harvesting.com
 wise-net.ru
