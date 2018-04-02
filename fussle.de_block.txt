@@ -35785,7 +35785,6 @@ b.trackcdn.com
 b.turbo.az
 b.twiago.com
 b.vghd.com
-b.vimeocdn.com
 b.voicefive.com
 b.vtomske.ru
 b.wacsy.com
@@ -61501,7 +61500,6 @@ f.securelinkcorp.com
 f.staticlp.com
 f.thanksearch.com
 f.tracking.goodgamestudios.com
-f.vimeocdn.com
 f.wishabi.net
 f.wm.co.za
 f.zeroredirect.com
@@ -71265,7 +71263,6 @@ i.trkjmp.com
 i.txtsrving.info
 i.uzhiv.com
 i.verticalresponse.com
-i.vimeocdn.com
 i.vizejs.info
 i.w.inmobi.com
 i.w.sandbox.inmobi.com
@@ -97928,7 +97925,6 @@ o.minisplat.cn
 o.mylifetime.com
 o.opentable.com
 o.sa.aol.com
-o.scdn.co
 o.ss2.us
 o.swisscom.ch
 o.techworld.com
@@ -100522,7 +100518,6 @@ p.reuters.com
 p.rfihub.com
 p.rhgw.net
 p.s.360.cn
-p.scdn.co
 p.sdu8cvc.com
 p.searchmission.com
 p.securedownload01.com
@@ -102926,7 +102921,6 @@ pl.krainabajek.pl
 pl.marketgid.com
 pl.mevida.me
 pl.mysafesmartphone.com
-pl.scdn.co
 pl.search.etargetnet.com
 pl.slimg0ji-berry.com
 pl.spanel.gem.pl
@@ -104515,7 +104509,6 @@ proffigurufast.com
 profi.ru
 profidom.com.ua
 profil.vhb.de
-profile-images.scdn.co
 profile-matching.com
 profile.adkmob.com
 profile.bharatmatrimony.com
