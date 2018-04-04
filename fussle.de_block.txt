@@ -42813,7 +42813,6 @@ bta.suprnova.cc
 btads.us.publicus.com
 btbilgisayarkursu.com
 btc-allinone.tk
-btc-echo.de
 btc-grabber.comli.com
 btc.suprnova.cc
 btc1.seeds.bitcoin.com
@@ -137929,7 +137928,6 @@ www.bsitm3.com
 www.bsugmail.net
 www.bt.emsecure.net
 www.btbilgisayarkursu.com
-www.btc-echo.de
 www.btc4life.de
 www.btcchina.com
 www.btcentralplus.com
