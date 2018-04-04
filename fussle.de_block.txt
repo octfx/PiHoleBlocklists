@@ -33179,7 +33179,6 @@ api.behavioralengine.com
 api.bigmobileads.com
 api.bitaccess.co
 api.bitcoin.cz
-api.bitcoin.de
 api.bithumb.com
 api.bitp.it
 api.bizographics.com
@@ -39110,7 +39109,6 @@ bitcoin-yellow.com
 bitcoin.bitaccess.co
 bitcoin.com
 bitcoin.cz
-bitcoin.de
 bitcoin.miningpoolhub.com
 bitcoin2048.com
 bitcoinadvertisers.com
@@ -39394,7 +39392,6 @@ blog.ampersandhelen.net
 blog.axant.it
 blog.bitaccess.co
 blog.bitcoin.cz
-blog.bitcoin.de
 blog.broadcast-technology.com
 blog.byethost.com
 blog.canna.biz
@@ -63591,7 +63588,6 @@ forum.autosahxe.in
 forum.avtokuznitsa-vl.ru
 forum.bestcollegehunt.com
 forum.bitcoin.cz
-forum.bitcoin.de
 forum.bluemine.org
 forum.briko.pl
 forum.brottsjustifymorning.com
@@ -69495,7 +69491,6 @@ herilios.tmall.com
 heringcorp.com
 heritagewestcu.com
 hermes.airad.com
-hermes.bitcoin.de
 hermeticbtc.com
 hernando.com
 hero.w-automotive.net
@@ -73562,7 +73557,6 @@ info.2makeaprofit.com
 info.abas-erp.com
 info.anmedia.co.uk
 info.askfortheorangecup.info
-info.bitcoin.de
 info.bororeb.com
 info.capitolcmg.com
 info.com
@@ -81622,7 +81616,6 @@ mailminion.net
 mailmunch.co
 mailoid.xyz
 mailonline-d.openx.net
-mailout.bitcoin.de
 mailout.pielab.org
 mailout1.surf-town.net
 mailout2.surf-town.net
@@ -134729,7 +134722,6 @@ ws.amazon.com
 ws.api.drift.com
 ws.assoc-amazon.de
 ws.batch.com
-ws.bitcoin.de
 ws.coinbase.com
 ws.freebitco.in
 ws.ghash.io
@@ -134858,7 +134850,6 @@ ws1.370cabd5.space
 ws1.3c0cb3b4.space
 ws1.3d0cb547.space
 ws1.appswebservice.com
-ws1.bitcoin.de
 ws1.coin-have.com
 ws1.datouniao.com
 ws1.minr.pw
@@ -134897,7 +134888,6 @@ ws2.360caa42.space
 ws2.370cabd5.space
 ws2.3c0cb3b4.space
 ws2.3d0cb547.space
-ws2.bitcoin.de
 ws2.coin-have.com
 ws2.cootekservice.com
 ws2.datouniao.com
@@ -134937,7 +134927,6 @@ ws3.360caa42.space
 ws3.370cabd5.space
 ws3.3c0cb3b4.space
 ws3.3d0cb547.space
-ws3.bitcoin.de
 ws3.coin-have.com
 ws3.rqtrk.eu
 ws3.surf-town.net
@@ -137659,7 +137648,6 @@ www.bitcoin-buy.xyz
 www.bitcoin-russia.ru
 www.bitcoin.bitaccess.co
 www.bitcoin.cz
-www.bitcoin.de
 www.bitcoinadvertisers.com
 www.bitcoinpara.de
 www.bitcoinstep.com
