@@ -1023,7 +1023,6 @@
 19216811.info
 192794.engine.mobileapptracking.com
 192com.112.2o7.net
-192skyfiregce-vimeo.akamaized.net
 193-162.polarnet.ru
 193.6.87.194.dynamic.dol.ru
 194.6.87.194.dynamic.dol.ru
@@ -2015,7 +2014,6 @@
 30dayadventures.ca
 30g5k61uh61tpot1l1jo1z71-wpengine.netdna-ssl.com
 30klc.voluumtrk.com
-30skyfiregce-vimeo.akamaized.net
 30x.org
 31-210-109-50.turkrdns.com
 31.6.87.194.dynamic.dol.ru
