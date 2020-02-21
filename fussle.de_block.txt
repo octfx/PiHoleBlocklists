@@ -35088,13 +35088,10 @@ audiencesettlement.com
 audiencesharing.com
 audimuteacousticpanels.com
 audinette.com
-audio-ec.scdn.co
-audio-ec.spotify.com
 audio-transcoder.com
 audio.de.intellitxt.com
 audio.digidip.net
 audio.iad.cimedia.net
-audio2.spotify.com
 audioblocks.com
 audioboo.ru
 audiode.ivwbox.de
@@ -55530,7 +55527,6 @@ desk.orsoon.com
 deskhelp.my-free.website
 desktop.com.br
 desktop.kazaa.com
-desktop.spotify.com
 desktopnexus.com
 desktopsmiley.com
 desktopwallpapers4.me
@@ -59701,7 +59697,6 @@ embed.powercontent.pl
 embed.scribblelive.com
 embed.sendtonews.com
 embed.spokenlayer.com
-embed.spotify.com
 embed.streamdor.co
 embed.tawk.to
 embed.technorati.com
@@ -108891,7 +108886,6 @@ robam.tmall.com
 robbads.dev
 robertscamera.com
 robertsonfilms.info
-robertsspaceindustries.com
 robesonian.com
 robinwong.blogspot.com
 robocraftgarage.com
@@ -137134,7 +137128,6 @@ www.audaris.de
 www.audia6.com
 www.audienceinsights.net
 www.audiencemanager.de
-www.audio2.spotify.com
 www.audioconverter.info
 www.audiopal.com
 www.audra-talbott.us
